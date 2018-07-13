@@ -1,2 +1,8 @@
-idea
+.idea
 wp-config.php
+
+wp-content/themes/cq/img/*
+wp-content/themes/cq/gulpfile.js
+wp-content/themes/cq/*.json
+wp-content/themes/cq/scss/*
+wp-content/themes/cq/node_modules
