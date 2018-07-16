@@ -7,5 +7,6 @@ Mapa na stronie zrealizowana dzięki bibliotece amcharts
 Motyw jest w pełni Responsywny
 
 ![Screenshot](zdjecie.png)
-
+![Screenshot](zdjecie2.png)
+![Screenshot](zdjecie3.png)
 
