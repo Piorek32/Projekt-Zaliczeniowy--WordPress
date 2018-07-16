@@ -6,6 +6,6 @@ Do automatyzacji pracy uzyłem Gulp i Sass
 Mapa na stronie zrealizowana dzięki bibliotece amcharts
 Motyw jest w pełni Responsywny
 
-![Screenshot](screenshot.png)
+![Screenshot](Zrzut ekranu z 2018-07-16 15-19-24.png)
 
 
