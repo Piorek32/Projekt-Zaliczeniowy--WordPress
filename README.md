@@ -1,7 +1,9 @@
-Projekt zaliczeniowy bootcampu CodersLab
+Projekt zaliczeniowy bootcampu CodersLab.
 W ramach zaliczenia zrealizowałem motyw do Wordpresa. 
 
-Wykorzystane technologie to Html, cSS, JavaScript i Php
-Do automatyzacji pracy uzyłem Gulp i Sas
+Wykorzystane technologie to Html, Css, JavaScript i Php
+Do automatyzacji pracy uzyłem Gulp i Sass
 Mapa na stronie zrealizowana dzięki bibliotece amcharts
 Motyw jest w pełni Responsywny
+
+
